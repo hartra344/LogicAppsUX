@@ -18,7 +18,7 @@ steps:
 - task: AzureCLI@2
   displayName: Azure CLI
   inputs:
-    azureSubscription: af314345-2f46-436c-8841-fe7fcc34ef7e
+    azureSubscription: 9c4e49a7-794c-4702-905a-b1b55368cc44
     scriptType: bash
     scriptLocation: inlineScript
     inlineScript: |
